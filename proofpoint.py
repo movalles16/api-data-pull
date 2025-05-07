@@ -111,7 +111,7 @@ def save_transposed_csv(data, filename, campaign_status_list):
 if __name__ == "__main__":
     campaign_status_list = ['Email View', 'Email Click', 'Data Submission', 'Reported', 'No Action', 'TM Complete', 'TM Sent']
     your_region = "us"
-    your_api_token = "Kp6rRBpdXBqhnJWi/rIao1h6w3ht5Lz8QEhEOi4esu6wuqBiM"  
+    your_api_token = ""  
 
     campaigns = {"formatted_campaigngithub.csv": "2025 March - GitHub Notification (Targeted)","formatted_campaignzoom.csv": "2025 March - Zoom Missed Meeting", "formatted_campaignresume.csv": "2025 March - Download Resume"}
 
